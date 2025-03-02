@@ -32,7 +32,7 @@ This project is an **AI-powered emoji recommendation system** that detects a use
    ```sh
    http://localhost:5000
 
-##📊 Model Training
+## 📊 Model Training
 - The emotion classification model was trained on the FER2013 dataset using a CNN architecture.
 - Achieved high accuracy in recognizing emotions such as Happy, Sad, Angry, etc.
 - Model fine-tuned using Transfer Learning for better results.
